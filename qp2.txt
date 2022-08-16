@@ -1,0 +1,43 @@
+			Wellcome To CS1111 Testing Portal
+		Instructions:
+			1)MCQS: Enter the Option Letter in Capital 
+			2)Integers:Enter Positive Integers
+1.In the context of computing, what is the full form of URL ?
+A)Undistributed Resource Locator
+B)Unified Resource Locator
+C)Uniform Resource Locator
+D)Uniform Region Locator 
+
+&3
+
+#C
+2.In the context of computing, a byte is equal to _____ bits ?
+
+&5
+
+$8
+3._______ is the smallest unit of data in a computer ?
+A)Gigabyte
+B)Bit
+C)Byte
+D)Terabyte
+&2
+
+#B
+
+4.How many function keys are present on a standard PC keyboard ?
+
+&4
+
+$12
+
+
+5.In the context of digital computer, which of the following pairs of digits is referred to as binary code ?
+A)3 and 4
+B)0 and 1
+C)2 and 3
+D)1 and 2
+&1
+
+#B
+
