@@ -1,5 +1,5 @@
 # Exam-Portal
-Uses filehandling in C to read the text file
+Uses filehandling in C to read the text file which stores the questions,answers and marks allotted
 1) The file stores question followed by marks which is identified by the symbol'&' before it
 2) Multiple Choice Questions' answers are preceded by '#' symbol to identify them.
 3) Integer or numerical type answers are preceded by '$' .
